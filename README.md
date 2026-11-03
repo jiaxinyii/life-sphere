@@ -40,3 +40,7 @@ python3 -m http.server 8000
 - [ ] Automatic growth from connected apps (Strava, GitHub, Goodreads, calendar)
 - [ ] Accounts and real friends' worlds
 - [ ] Port to React + react-three-fiber
+
+## License
+
+MIT. See [LICENSE](LICENSE).
